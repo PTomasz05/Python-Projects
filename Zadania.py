@@ -1,3 +1,5 @@
+# prosta aplikacja, menadżer zadań
+
 def wczytaj_zadania():
     try:
         with open("zadania.txt", "r", encoding="utf-8") as plik:
