@@ -1,4 +1,4 @@
-# prosta aplikacja, menadżer zadań
+# prosta aplikacja - nenadżer zadań
 
 def wczytaj_zadania():
     try:
